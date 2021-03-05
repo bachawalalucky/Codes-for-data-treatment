@@ -1,3 +1,3 @@
 # Codes-for-data-treatment
-codes used to treat data for different issues in data, Always you find something new to learn.
+Codes used to treat data for different issues, you find something new to learn.
 
